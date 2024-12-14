@@ -1,7 +1,5 @@
 # Understanding Customer Behavior using RFM Analysis
 
-It’s almost 3 years since I become Data Analyst, and I’ve decided to document my thoughts and work into a series of articles on Medium, with the goal of not only reflecting on my progress but also contributing to the wider data community. Over the past three years, I've worked on various projects, learned new tools and technologies, and developed a deeper understanding of how data can be used to solve real-world problems.
-
 In this article, I want to share one of the techniques to understand customer behavior or their shopping habit; **RFM Analysis**. As businesses increasingly rely on data to make informed decisions, understanding customer behavior has become crucial for improving marketing strategies, boosting sales, and enhancing customer retention. Among the various methods to analyze customer data, RFM Analysis stands out as a simple yet highly effective approach.
 
 RFM stands for Recency, Frequency and Monetary. These 3 metrics help to identify customer based on their past behavior:
